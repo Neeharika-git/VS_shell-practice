@@ -1,7 +1,8 @@
 #!/bin/bash
+enter 2 names
 
-read=PERSON1
-read=PERSON2
+read PERSON1
+read PERSON2
 
 echo "$PERSON1:: Hey $PERSON2, How are you?"
 echo "$PERSON2:: Hello $PERSON1, I am fine. How are you doing"
