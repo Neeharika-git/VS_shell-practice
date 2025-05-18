@@ -1,5 +1,5 @@
 #!/bin/bash
-enter 2 names
+echo "enter 2 names"
 
 read PERSON1
 read PERSON2
